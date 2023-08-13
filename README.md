@@ -31,9 +31,11 @@ The map for each visualization offers a geographical perspective of failed banks
 
 ## 4. Data Source
 
-The data used for Failed data bank is sourced from "
+The data used for Failed data bank is sourced from 
+"
 data.gov
-" . More information about the data, including its structure and variables, can be found in the file data.gov [FDIC Failed Bank List].
+"
+. More information about the data, including its structure and variables, can be found in the file data.gov [FDIC Failed Bank List].
 
 ## Contributing
 
